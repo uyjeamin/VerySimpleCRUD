@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://43.201.207.115:3306/crud
     username: root
-    password: '4321'
+    password: '1234'
 
   jpa:
     database: mysql
